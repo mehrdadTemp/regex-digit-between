@@ -36,7 +36,7 @@ this module generate one valid regex between two positive number.
 
     //  290 <=   reg  <= 2459
 
-    var reg = regexBetween.betweens(290,2459);
+    let reg = regexBetween.betweens(290,2459);
     reg.test("12");    //F
     reg.test("289");   //F
     reg.test("290");   //T
