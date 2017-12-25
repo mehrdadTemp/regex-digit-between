@@ -13,7 +13,10 @@
   "keywords": [
     "regex",
     "digit",
-    "between"
+    "between",
+    "regex between 2 digit",
+    "Regex Numeric Range Generator",
+    "Numeric Range Generator"
   ],
   "author": "mehrdad salehi (M2)",
   "license": "MIT",

@@ -1,5 +1,5 @@
-# regex-digit-between
-this function generate one valid regex between two positive number
+# regex-digit-between (Regex Numeric Range Generator)
+this module generate one valid regex between two positive number.
 
 # 1.  Sample
 
