@@ -1,0 +1,24 @@
+{
+  "name": "regex-digit-between",
+  "version": "1.0.0",
+  "description": "this function generate one valid regex between two positive number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrdadTemp/regex-digit-between.git"
+  },
+  "keywords": [
+    "regex",
+    "digit",
+    "between"
+  ],
+  "author": "mehrdad salehi (M2)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehrdadTemp/regex-digit-between/issues"
+  },
+  "homepage": "https://github.com/mehrdadTemp/regex-digit-between#readme"
+}
