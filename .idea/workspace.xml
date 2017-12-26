@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92edd65c-cb3d-47fb-9ece-b4466f359d42" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/ecma5Regex.js" afterPath="$PROJECT_DIR$/lib/ES5/digitRegex.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/ecma6Regex.js" afterPath="$PROJECT_DIR$/lib/ES6/digitRegex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ES5/temp.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Packt.Learn.Nodejs.by.building.12.projects_p30download.com.part5.rar?1514116340" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ES5/digitRegex.js" afterPath="$PROJECT_DIR$/lib/ES5/digitRegex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ES6/digitRegex.js" afterPath="$PROJECT_DIR$/lib/ES6/digitRegex.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +24,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -33,24 +34,44 @@
       <file leaf-file-name="digitRegex.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ES6/digitRegex.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+            <state relative-caret-position="-362">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
+                <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+                <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
                 <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
                 <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-                <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+                <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digitRegex.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="digitRegex.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/ES5/digitRegex.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+            <state relative-caret-position="108">
+              <caret line="88" column="20" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+                <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
+                <element signature="n#!!block;n#minThan#0" expanded="false" />
+                <element signature="n#!!block;n#maxThan#0" expanded="false" />
+                <element signature="n#!!block;n#betweens#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ES5/temp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding>
                 <element signature="n#!!block;n#maxRegex#0" expanded="false" />
+                <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+                <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
                 <element signature="n#!!block;n#minRegex#0" expanded="false" />
                 <element signature="n#!!block;n#minThan#0" expanded="false" />
                 <element signature="n#!!block;n#maxThan#0" expanded="false" />
@@ -60,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            <state relative-caret-position="630">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,6 +113,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>${</find>
+      <find>minarray</find>
+      <find>\u002B</find>
+      <find>\u002D</find>
+      <find>let</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,10 +132,12 @@
         <option value="$PROJECT_DIR$/lib/ecma6Regex.js" />
         <option value="$PROJECT_DIR$/lib/ecma5Regex.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/lib/ES5/clone.js" />
+        <option value="$PROJECT_DIR$/lib/ES5/temp.js" />
         <option value="$PROJECT_DIR$/lib/ES6/digitRegex.js" />
         <option value="$PROJECT_DIR$/lib/ES5/digitRegex.js" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -148,6 +175,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,8 +205,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,12 +254,20 @@
       <workItem from="1514266149690" duration="1740000" />
       <workItem from="1514267920082" duration="1781000" />
       <workItem from="1514269737976" duration="1274000" />
-      <workItem from="1514271558014" duration="733000" />
+      <workItem from="1514271558014" duration="1778000" />
+      <workItem from="1514273371610" duration="1801000" />
+      <workItem from="1514275311785" duration="1137000" />
+      <workItem from="1514277118566" duration="1777000" />
+      <workItem from="1514278925683" duration="1778000" />
+      <workItem from="1514280736583" duration="1641000" />
+      <workItem from="1514282548782" duration="1815000" />
+      <workItem from="1514284408757" duration="1779000" />
+      <workItem from="1514286217404" duration="1505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14848000" />
+    <option name="totallyTimeSpent" value="29126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="-11" width="1313" height="780" extended-state="6" />
@@ -241,7 +276,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16966967" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16966967" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -269,6 +304,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -282,9 +325,11 @@
         <state relative-caret-position="1044">
           <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -294,8 +339,8 @@
         <state relative-caret-position="162">
           <caret line="105" column="17" lean-forward="false" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="17" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -332,8 +377,8 @@
         <state relative-caret-position="540">
           <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -362,9 +407,11 @@
         <state relative-caret-position="522">
           <caret line="59" column="50" lean-forward="false" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="69" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -382,8 +429,8 @@
         <state relative-caret-position="1170">
           <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -412,9 +459,11 @@
         <state relative-caret-position="414">
           <caret line="116" column="31" lean-forward="false" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -432,9 +481,11 @@
         <state relative-caret-position="126">
           <caret line="70" column="12" lean-forward="false" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -444,8 +495,8 @@
         <state relative-caret-position="1170">
           <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -482,9 +533,11 @@
         <state relative-caret-position="126">
           <caret line="70" column="12" lean-forward="false" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -494,8 +547,8 @@
         <state relative-caret-position="1170">
           <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -532,9 +585,11 @@
         <state relative-caret-position="126">
           <caret line="70" column="12" lean-forward="false" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -544,8 +599,8 @@
         <state relative-caret-position="1170">
           <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -582,8 +637,8 @@
         <state relative-caret-position="1170">
           <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -612,9 +667,11 @@
         <state relative-caret-position="234">
           <caret line="104" column="1" lean-forward="false" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
           <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
           </folding>
         </state>
       </provider>
@@ -632,8 +689,8 @@
         <state relative-caret-position="1314">
           <caret line="73" column="40" lean-forward="true" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
           <folding>
-            <element signature="n#!!block;n#maxRegex#0" expanded="false" />
-            <element signature="n#!!block;n#minRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
             <element signature="n#!!block;n#betweens#0" expanded="false" />
@@ -675,6 +732,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/regex-betwen-2digit.js" />
     <entry file="file://$PROJECT_DIR$/regexBetween.js" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -683,20 +756,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/lib/ES5/clone.js" />
+    <entry file="file://$PROJECT_DIR$/lib/ES6/digitRegex.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="-362">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#maxRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
+            <marker date="1514287662642" expanded="true" signature="1237:1443" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ES5/digitRegex.js">
+    <entry file="file://$PROJECT_DIR$/lib/ES5/temp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        <state relative-caret-position="108">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding>
             <element signature="n#!!block;n#maxRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
             <element signature="n#!!block;n#minRegex#0" expanded="false" />
             <element signature="n#!!block;n#minThan#0" expanded="false" />
             <element signature="n#!!block;n#maxThan#0" expanded="false" />
@@ -705,23 +787,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ES6/digitRegex.js">
+    <entry file="file://$PROJECT_DIR$/lib/ES5/digitRegex.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+        <state relative-caret-position="108">
+          <caret line="88" column="20" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
           <folding>
-            <element signature="n#!!block;n#minThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#maxThan#0;n#digitRegex#0" expanded="false" />
-            <element signature="n#!!block;n#betweens#0;n#digitRegex#0" expanded="false" />
+            <element signature="n#!!block;n#maxRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minRegexPositive#0" expanded="false" />
+            <element signature="n#!!block;n#minThan#0" expanded="false" />
+            <element signature="n#!!block;n#maxThan#0" expanded="false" />
+            <element signature="n#!!block;n#betweens#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
