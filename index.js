@@ -1,2 +1,3 @@
-import {default as regexBetween} from './lib/ecma6Regex';
-module.exports = regexBetween;
+export {
+   default as digitRegex
+} from "./lib/ES6/digitRegex";
