@@ -42,7 +42,7 @@ this module generate one valid regex between two number.
 
 ### HTML
 ```html
-   <script  type="text/javascript"  src="regex-digit-between/lib/ES5/digitRegex.js"></script>
+        <script  type="text/javascript"  src="regex-digit-between/lib/ES5/digitRegex.js"></script>
 ```
 
 ### JAVASCRIPT
@@ -102,11 +102,16 @@ this module generate one valid regex between two number.
 
         //todo  290 <=   reg  <= 2459
         let [
-        Nbetween,
-        betweens,
-        maxthan,
-        minthan
-        ] = [digitRegex.betweens(-120,230),digitRegex.betweens(290,2459),digitRegex.maxThan(290),digitRegex.minThan(2459)];
+            Nbetween,
+            betweens,
+            maxthan,
+            minthan
+        ] = [
+            digitRegex.betweens(-120,230),
+            digitRegex.betweens(290,2459),
+            digitRegex.maxThan(290),
+            digitRegex.minThan(2459)
+        ];
 
 
         //todo  -120 <=   reg  <= 230
