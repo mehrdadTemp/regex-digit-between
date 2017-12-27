@@ -32,6 +32,7 @@ this module generate one valid regex between two number.
 > result is garth than  `lt` number param.
 
 # 3.  Features:
+
 > can use negative numbers in function
 > all function in this module return regex
 

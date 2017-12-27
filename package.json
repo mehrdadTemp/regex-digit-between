@@ -1,7 +1,7 @@
 {
   "name": "regex-digit-between",
   "version": "1.0.0",
-  "description": "this function generate one valid regex between two positive number",
+  "description": "this function generate one valid regex between two number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
