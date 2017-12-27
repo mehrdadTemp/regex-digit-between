@@ -10,30 +10,36 @@ this module generate one valid regex between two number.
 
 # 2. Functions:
 
-### betweens
+## -betweens
+### betweens(gt,lt)
 
 > this function get two number and generate regex from that
 > you can used this regex in Javascript codes
 > betweens(`gt`,`lt`);
 > result is garth than `gt` number and lower than `lt` param.
+> result type is ```javascript regex```
 
-### maxThan
+## -maxThan
+### maxThan(number)
 
 > this function get one number and generate regex from that
 > you can used this regex in Javascript codes
 > maxThan(`gt`);
 > result is garth than  `gt` number param.
+> result type is ```javascript regex```
 
-### minThan
-
+## -minThan
+### minThan(number)
 > this function get one number and generate regex from that
 > you can used this regex in Javascript codes
 > minThan(`lt`);
 > result is garth than  `lt` number param.
+> result type is ```javascript regex```
 
 # 3.  Features:
 
 > can use negative numbers in function
+
 > all function in this module return regex
 
 # 4.  Sample:
